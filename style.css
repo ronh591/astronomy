@@ -1,0 +1,77 @@
+/* Shared Styles */
+body {
+    background-image: url("milkyway.jpg"); /* Replace with the actual path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #eee;
+    font-family: sans-serif;
+}
+
+.container {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Slightly transparent dark */
+    border-radius: 10px;
+}
+
+h1 {
+    color: #add8e6; /* Light blue, celestial color */
+}
+
+/* Home Page Styles */
+.home-body {
+  background-color: #212529; /* Dark grey for home */
+}
+
+.home-container {
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.home-text {
+    padding-top: 20px;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Catalog Page Styles */
+.catalog-body {
+    background-color: #343a40; /* Slightly lighter dark grey for catalog */
+}
+
+.catalog-container {
+    padding: 30px;
+}
+
+.catalog-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.catalog-item {
+    background-color: #495057; /* Even lighter dark grey */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+
+/* Item Page Styles */
+.item-body {
+    background-color: #545b62; /* Item page background */
+}
+
+.item-container {
+    padding: 30px;
+}
+
+.item-text {
+    padding-top: 20px;
+}
+
+.attribution {
+    font-size: 0.8em;
+    color: #ccc;
+}
